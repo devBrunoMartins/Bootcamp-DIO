@@ -1,2 +1,2 @@
-# Bootcamp-DIO
-Registros de aulas, exercícios e outros.
+# Bootcamp DIO
+Repositório para registros de aulas, exercícios e outros.
